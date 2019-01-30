@@ -1,0 +1,4 @@
+include <str.h>
+// cout<< ''' endl
+//cin>> 
+// setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("icon")));
